@@ -1,2 +1,2 @@
 # Skripte
-Meine Sammlung von Bash &amp; PowerShell Skripten
+Eine Sammlung meiner Bash-Skripte.
